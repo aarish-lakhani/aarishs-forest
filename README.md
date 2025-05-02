@@ -22,9 +22,14 @@ This one is a bit trickier. Download Termux for IOS or Android.
 
 Open it, then enter the following commands:
 
+
 pkg update
+
 pkg install git
-git clone https://github.com/username/repository.git](https://github.com/aarish-lakhani/aarishs-forest.git
+
+git clone https://github.com/aarish-lakhani/aarishs-forest.git
+
 cp -r aarishs-forest /storage/emulated/0/Download/
+
 
 You can then download Obisidian for mobile, open a folder that is on your device, navigate to your Downloads, and there it is!
