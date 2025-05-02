@@ -1,4 +1,4 @@
-# Hello and welcome! You must be one of a lucky few. I probably like you enough to have sent this to you. 
+# Hello and welcome! 
 
 This is a repository used to help educate my friends on foraging. It uses Obsidian as the learning interface. If all of these sound like big words, don't worry; I'll be walking you through it step-by-step.
 
@@ -18,7 +18,7 @@ From here, navigate to the Welcome page, and then you can CTRL+Click to access s
 
 ## Phone (Android): 
 
-This one is a bit trickier. Download Termux for IOS or Android. 
+This one is a bit trickier. Download Termux for Android. 
 
 Open it, then enter the following commands:
 
@@ -33,3 +33,7 @@ cp -r aarishs-forest /storage/emulated/0/Download/
 
 
 You can then download Obisidian for mobile, open a folder that is on your device, navigate to your Downloads, and there it is!
+
+## Phone (iOS):
+
+https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/
