@@ -1,21 +1,19 @@
-(Also in _Foraging/Welcome to Aarish's Forest, Foraging Edition_)
+# Hello and welcome! You must be one of a lucky few. I probably like you enough to have sent this to you. 
 
-Hello, and welcome!
+This is a repository used to help educate my friends on foraging. It uses Obsidian as the learning interface. If all of these sound like big words, don't worry; I'll be walking you through it step-by-step.
 
-If you have encountered this Obsidian Vault, congratulations! You're a stinky, mud-covered, environmental geek who loves being outside in their natural environment. I'm just like you. I love you.
+To start, decide if you want to access this repository via your computer or phone. Computer is easier, but phone is more useful.
 
-I purchased a course from Home Grown and Hand Gathered, who provided me with all of the content and material outlined within this vault. Screenshots from their course are provided, along with internet images. Check out their Instagram, they try to do a challenge every year to see how long they can live off of their land. Here is their website, containing flavorful recipes with these foraged goods: https://homegrownhandgathered.com/
+## Computer:
 
-To start, I recommend going through these modules:
+You can either access this repository by creating/using a GitHub account, or even without.
 
-- [[Where to Forage]]
-- [[Safe Foraging]]
-- [[Common Highly Toxic Plants, Nuts, and Mushrooms]]
-- [[Sustainable Foraging]]
-- [[Foraging Tools]]
-- [[Preserving Your Harvest]]
-- [[Spring]]
-- [[Summer]]
-- [[Winter]]
+If you're a noob, download this: https://desktop.github.com/download/
 
-And lastly, don't forget that this is information to be shared. Although we are taking from the ecosystem around us, it is more sustainable than purchasing sustenance from a grocery store. Please share this with anyone who might find it interesting. Feel free to reach out to me with any questions, comments, or concerns; since I have access to the course, they also let me ask them questions! I would be happy to be a medium to have any of your foraging questions answered.
+You'll probably have to make an account to use it. Get into GitHub Desktop, then go to File, then go to Clone Repository. Click URL, then enter the following URL (for Foraging): https://github.com/aarish-lakhani/aarishs-forest/tree/master/Foraging. Make sure to take note of the Local Path below it, that'll be where it exists after. You'll need that for when you open it in Obsidian.
+
+Once you've cloned it, it's on your computer! You can then download Obsidian: https://obsidian.md/download, and open the folder which has the cloned repository in it. 
+
+From here, navigate to the Welcome page, and then you can CTRL+Click to access subpages. There's also a graph view which lets you see the contents in the form of a mind map.
+
+## Phone: 
